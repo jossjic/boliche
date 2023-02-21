@@ -1,18 +1,6 @@
 defmodule Boliche do
-  @moduledoc """
-  Documentation for `Boliche`.
-  """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> Boliche.hello()
-      :world
-
-  """
-  def hello do
-    :world
+  def score(game) do
+    0
   end
+
 end
